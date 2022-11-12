@@ -56,11 +56,11 @@
 
 ## About The Project
 
-[![Product Name Screen Shot](preview/preview.png)]
+[![Product Name Screen Shot](assets/preview.png)]
 
-**The Head (title & image) are fixed**
-**The rest is scrollable**
-**When you click on the main title, the color changes randomly**
+- []() The Head (title & image) are fixed
+- []() The rest is scrollable
+- []() When you click on the main title, the color changes randomly
 
 ### Built With
 
