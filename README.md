@@ -56,7 +56,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot](assets/preview.png)]
+[![Product Name Screen Shot](assets/preview.png)
 
 - []() The Head (title & image) are fixed
 - []() The rest is scrollable
