@@ -20,7 +20,7 @@
     A one-pager CV
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://basic-cv-davis-shyaka.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/davis-shyaka/basic_cv/issues">Report Bug</a>
   </p>
@@ -56,7 +56,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot](assets/preview.png)
+[Product Name Screen Shot](assets/preview.png)
 
 - []() The Head (title & image) are fixed
 - []() The rest is scrollable
@@ -72,7 +72,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://example.com)
+[Live Demo Link](https://basic-cv-davis-shyaka.vercel.app/)
 
 <!-- GETTING STARTED -->
 
